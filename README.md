@@ -1,2 +1,4 @@
 # ImageClassifier
-Developing an Image Classifier with Deep Learning
+
+Developing an Image Classifier with Deep Learning using Python
+
